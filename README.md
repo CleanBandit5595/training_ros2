@@ -7,7 +7,7 @@ This project is meant for educational and training purposes. The training materi
 To clone and build the relevant docker images - 
 
 ```
-git clone https://github.com/cleanbandit5595/training_ros2_and_nav_concepts.git
+git clone https://github.com/cleanbandit5595/training_ros2.git
 cd training_ros2_and_nav_concepts
 source ./scripts/setup_host_env.sh
 build_training_ws.sh
