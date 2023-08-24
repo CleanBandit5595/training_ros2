@@ -4,7 +4,7 @@
   <name>training_bringup</name>
   <version>0.0.0</version>
   <description>training bringup package</description>
-  <maintainer email="osforlife42@gmail.com">osforlife</maintainer>
+  <maintainer email="cleanbandit5595@gmail.com">cleanbandit</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
